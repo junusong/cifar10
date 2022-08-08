@@ -1,4 +1,4 @@
-## Readme 
+# Readme 
 This was created for a coding assignment for the GLAMOR lab at USC, as part of the interview process. 
 
 The purpose of this project was to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).  
